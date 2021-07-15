@@ -23,7 +23,8 @@ github: https://github.com/ORI299/
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: my repos</summary>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ori299&repo=telegram-AStockBot)](https://github.com/ORI299/telegram-AStockBot)
 
   
 ---
@@ -32,6 +33,6 @@ github: https://github.com/ORI299/
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![ori299's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori299&hide=contribs,prs)
+  ![ori299's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori299&hide=contribs,prs&theme=radical)
 </details>
 
