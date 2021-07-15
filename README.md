@@ -32,6 +32,6 @@ github: https://github.com/ORI299/
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  https://github-readme-stats.vercel.app/api?username=ori299&hide=contribs,prs
+  ![ori299's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori299&hide=contribs,prs)
 </details>
 
