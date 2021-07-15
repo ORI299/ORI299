@@ -25,7 +25,7 @@ github: https://github.com/ORI299/
 <details>
   <summary>:zap: my repos</summary>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ori299&repo=telegram-AStockBot)](https://github.com/ORI299/telegram-AStockBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ori299&repo=telegram-AStockBot&show_icons=true)](https://github.com/ORI299/telegram-AStockBot)
 
 
   
