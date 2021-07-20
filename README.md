@@ -15,7 +15,7 @@
 
 
 
-### Connect with me:
+### contact with me:
 
 discord: ori299#0001  
 github: https://github.com/ORI299/  
