@@ -8,8 +8,9 @@
 [![Website](https://img.shields.io/website?label=stock-bot&style=for-the-badge&url=https://www.t.me/AStocksBot)](https://www.t.me/AStocksBot)
 
 - ⚡ I just released my first telegram bot!
-- 🌱 the is a stock bot [click hare](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
-- 💪I learn the most I can learn to program because it is my dream to be one of the best programmers in the world
+- 🌱 its a stock bot that can help you a lot! [click hare](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
+- 💪 i know to create a discord bots,flask & fastAPI websites and api's i also know how to **use** an api's
+
 
 
 ### Connect with me:
