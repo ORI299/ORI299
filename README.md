@@ -7,10 +7,10 @@
 ## I'm a python & js Developer, and also know batch files! 
 [![Website](https://img.shields.io/website?label=stock-bot&style=for-the-badge&url=https://www.t.me/AStocksBot)](https://www.t.me/AStocksBot)
 
-- ⚡ I just released my first telegram bot!
-- 🌱 its a stock bot that can help you a lot! [click here](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
-- 💪 I know to **create** discord bots, flask & fastAPI websites and API's I also know how to **use** an api's
-
+- I just released my first telegram bot!
+- its a stock bot that can help you a lot! [click here](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
+- I know to **create** discord bots, flask & fastAPI websites and API's I also know how to **use** an api's
+- I am also can work with json and xml 
 
 
 
