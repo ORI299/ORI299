@@ -10,7 +10,8 @@
 - I just released my first telegram bot!
 - its a stock bot that can help you a lot! [click here](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
 - I know to **create** discord bots, flask & fastAPI websites and API's I also know how to **use** an api's
-- I am also can work with json and xml 
+- I am also can work with JSON and XML
+- I can create a [CLI](https://en.wikipedia.org/wiki/Command-line_interface) (command line)
 
 
 
