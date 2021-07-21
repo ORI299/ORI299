@@ -9,7 +9,7 @@
 
 - ⚡ I just released my first telegram bot!
 - 🌱 its a stock bot that can help you a lot! [click hare](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
-- 💪 i know to create a discord bots,flask & fastAPI websites and api's i also know how to **use** an api's
+- 💪 i know to **create** a discord bots,flask & fastAPI websites and api's i also know how to **use** an api's
 
 
 
