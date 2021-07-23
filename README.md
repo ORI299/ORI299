@@ -2,10 +2,7 @@
 ### Hey! my name is ori
 
 
-
-
-## I'm a python & js Developer! 
-![ori299](https://user-images.githubusercontent.com/78441039/126768708-045f5cf4-7528-41ff-8e97-d441a5bcc9b2.jpg)
+![ori299 (1)](https://user-images.githubusercontent.com/78441039/126769009-bf3f55c5-5e60-4895-b16b-d35d665ed363.jpg)
 
 [![Website](https://img.shields.io/website?label=stock-bot&style=for-the-badge&url=https://www.t.me/AStocksBot)](https://www.t.me/AStocksBot)
 
