@@ -1,18 +1,15 @@
 
-### Hey!, my name is ori
+### Hey! my name is ori
 
 
 
 
-## I'm a python & js Developer, and also know batch files! 
+## I'm a python & js Developer! 
 [![Website](https://img.shields.io/website?label=stock-bot&style=for-the-badge&url=https://www.t.me/AStocksBot)](https://www.t.me/AStocksBot)
 
-- I just released my first telegram bot!
-- its a stock bot that can help you a lot! [click here](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
-- I know to **create** discord bots, flask & fastAPI websites and API's I also know how to **use** an api's
-- I am also can work with JSON and XML
-- I can create a [CLI](https://en.wikipedia.org/wiki/Command-line_interface) (command line)
-
+- skils: HTML / PYTHON / JS / CLI / API / 
+- I just released my first telegram bot, its a stock bot that can help you a lot! [click here](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
+- I’m currently working on a wehatsapp bot for customers service!
 
 
 
