@@ -21,11 +21,9 @@ github: https://github.com/ORI299/
 ---
 
 
+## GitHub Stats
 
-<details>
-  <summary>GitHub Stats</summary>
-
-  ![ori299's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori299&hide=contribs,prs&theme=radical)
+![ori299's GitHub stats](https://github-readme-stats.vercel.app/api?username=ori299&hide_border=True&hide=contribs,prs&theme=radical)
   
   
   ---
