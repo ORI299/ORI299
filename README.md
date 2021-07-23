@@ -5,7 +5,7 @@
 
 
 ## I'm a python & js Developer! 
-![ori299 (1)](https://user-images.githubusercontent.com/78441039/126759612-61ab2fae-bff2-4e35-9bb1-66f486b51dcd.jpg)
+![ori299](https://user-images.githubusercontent.com/78441039/126768708-045f5cf4-7528-41ff-8e97-d441a5bcc9b2.jpg)
 
 [![Website](https://img.shields.io/website?label=stock-bot&style=for-the-badge&url=https://www.t.me/AStocksBot)](https://www.t.me/AStocksBot)
 
