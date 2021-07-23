@@ -5,9 +5,10 @@
 
 
 ## I'm a python & js Developer! 
+![ori299 (1)](https://user-images.githubusercontent.com/78441039/126759612-61ab2fae-bff2-4e35-9bb1-66f486b51dcd.jpg)
+
 [![Website](https://img.shields.io/website?label=stock-bot&style=for-the-badge&url=https://www.t.me/AStocksBot)](https://www.t.me/AStocksBot)
 
-- skils: HTML / PYTHON / JS / CLI / API / 
 - I just released my first telegram bot, its a stock bot that can help you a lot! [click here](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
 - I’m currently working on a wehatsapp bot for customers service!
 
