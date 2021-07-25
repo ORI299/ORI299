@@ -2,7 +2,6 @@
 ### Hey! my name is ori
 
 
-![ori299 (1)](https://user-images.githubusercontent.com/78441039/126769009-bf3f55c5-5e60-4895-b16b-d35d665ed363.jpg)
 
 [![Website](https://img.shields.io/website?label=stock-bot&style=for-the-badge&url=https://www.t.me/AStocksBot)](https://www.t.me/AStocksBot)
 
