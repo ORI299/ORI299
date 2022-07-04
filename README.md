@@ -4,8 +4,7 @@
 
 
 
-- I just released my first telegram bot, its a stock bot that can help you a lot! [click here](https://github.com/ORI299/telegram-AStockBot) to get to the bot page
-- I’m currently working on a wehatsapp bot for customers service!
+- I’m currently working on noeting send me a message if you need help
 - skils PYTHON / JS / HTML / CMD / BATCH FILES / API
 
 
