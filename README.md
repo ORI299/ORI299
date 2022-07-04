@@ -14,7 +14,7 @@
 
 ### contact with me:
 
-discord: ori299#0001  
+discord: ori299#9850  
 github: https://github.com/ORI299/  
 <br />
 
