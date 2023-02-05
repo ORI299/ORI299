@@ -4,8 +4,8 @@
 
 
 
-- I’m currently working on noeting send me a message if you need help
-- skils PYTHON / JS / HTML / CMD / BATCH FILES / API
+- I’m currently not working on anything send me a message if you need help
+- skils PYTHON / BASIC HTML / BASIC JS /
 
 
 
